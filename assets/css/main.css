@@ -180,7 +180,7 @@ input, select, textarea {
 
 		h1 strong {
 			font-weight: 200;
-			color:white;
+			color: blueviolet;
 			
 		}
 
@@ -231,7 +231,7 @@ input, select, textarea {
 	header {
 		margin: 0 0 0.5em 0;
 		font-size: 12pt;
-		color: rgb(2, 2, 80);
+		color: blueviolet;
 		
 
 		
