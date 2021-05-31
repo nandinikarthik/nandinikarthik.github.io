@@ -1954,7 +1954,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: url("images/hpic1.jpg");
+			background-image: url("../../images/hpic1.jpg");
 			background-color: #fafafa;
 			background-repeat: no-repeat;
 			background-position:center;
