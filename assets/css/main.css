@@ -180,12 +180,12 @@ input, select, textarea {
 
 		h1 strong {
 			font-weight: 200;
-			color: blueviolet;
+			color:whitesmoke;
 			
 		}
 
 	h2 {
-		font-size: 25pt;
+		font-size: 20pt;
 		letter-spacing: -0.015em;
 		margin: 0 0 0.5em 0;
 	
@@ -195,6 +195,8 @@ input, select, textarea {
 		font-size: 12pt;
 		letter-spacing: -0.015em;
 		text-align: center;
+		
+	
 			
 	}
 	h3 a {
@@ -202,6 +204,8 @@ input, select, textarea {
 		letter-spacing: -0.015em;
 		text-align: center;	
 		color: #3e3e3e;	
+		
+		
 				
 	}
 	
@@ -231,8 +235,7 @@ input, select, textarea {
 	header {
 		margin: 0 0 0.5em 0;
 		font-size: 12pt;
-		color: blueviolet;
-		
+		color: whitesmoke;
 
 		
 	}
@@ -241,6 +244,7 @@ input, select, textarea {
 			font-size: 11pt;
 			margin: 0;
 			color: rgb(2, 2, 80);
+			text-align: center;
 			
 		}
 
@@ -1952,10 +1956,11 @@ input, select, textarea {
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		padding: 5em 0 5em 0;
 		text-align:center;
+		
 	}
 
 		.wrapper.style1 {
-			background-image: url(images/Hpic1.jpg);
+			background-image: url("../../images/hpic1.jpg");
 			background-color: #fafafa;
 			background-repeat: no-repeat;
 			background-position:center;
