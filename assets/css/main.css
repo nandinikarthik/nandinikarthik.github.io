@@ -1,13 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
 
-
-/*
-	Miniport by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -180,13 +173,14 @@ input, select, textarea {
 		font-size: 20pt;
 		letter-spacing: -0.025em;
 		font-weight: 200;
+	
 		
 	
 	}
 
 		h1 strong {
 			font-weight: 200;
-		
+			color:white;
 			
 		}
 
@@ -1961,7 +1955,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: url(images/Hpic1.jpg);
+			background-image: url("../../images/hpic1.jpg");
 			background-color: #fafafa;
 			background-repeat: no-repeat;
 			background-position:center;
