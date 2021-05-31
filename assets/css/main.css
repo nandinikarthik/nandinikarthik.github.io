@@ -1,6 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
 
+
+/*
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1954,7 +1961,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: url("nandinikarthik.github.io/images/hpic1.jpg");
+			background-image: url("../images/hpic1.jpg");
 			background-color: #fafafa;
 			background-repeat: no-repeat;
 			background-position:center;
